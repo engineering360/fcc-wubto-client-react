@@ -17,6 +17,7 @@ class Footer extends Component {
           {pathname !== 'about' && <Link to="/about">About</Link>}
         </section>
         <h5>Powered by Yelp and Facebook</h5>
+      <p>developed maria pestematzogloy 2019</p>
       </footer>
     );
   }
